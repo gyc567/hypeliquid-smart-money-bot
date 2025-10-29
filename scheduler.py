@@ -2,7 +2,7 @@ import asyncio
 import logging
 import signal
 import sys
-from typing import Optional
+from typing import Optional, Dict
 import time
 from datetime import datetime
 
